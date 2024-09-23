@@ -8,5 +8,6 @@ int main()
     scanf("%d", &a);
     printf("Введите целое число b:");
     scanf("%d", &b);
+    printf("Sum: %d\n", a + b);
     return 0;
 }
